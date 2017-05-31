@@ -41,4 +41,4 @@ Source data: [Open smart meter data from data.gov.uk website](https://data.gov.u
 
 ## Licence
 
-Released under the [GNU General Public License, version 3](https://github.com/ONSBigData/Who-you-work-with/blob/master/LICENSE).
+Released under the [MIT License](LICENSE).
